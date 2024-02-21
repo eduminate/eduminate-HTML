@@ -1,1 +1,1 @@
-# eduminate-HTML
+# eduminate
